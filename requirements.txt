@@ -1,0 +1,7 @@
+customtkinter
+pandas 
+numpy 
+matplotlib 
+scikit-learn
+taipy 
+taipy-gui
